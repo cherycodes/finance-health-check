@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "timestamp": 1794513996068,
+  "index": "/finance-health-check/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/finance-health-check/chunk-B7W6jEV5.js",
+        "/finance-health-check/chunk-BElFdW_K.js",
+        "/finance-health-check/chunk-BEuQRioc.js",
+        "/finance-health-check/chunk-Bahj2KRN.js",
+        "/finance-health-check/chunk-Bf69tG_C.js",
+        "/finance-health-check/chunk-BhHPqdIT.js",
+        "/finance-health-check/chunk-C2ag7lUe.js",
+        "/finance-health-check/chunk-C5hQpH0g.js",
+        "/finance-health-check/chunk-CgEvyLfZ.js",
+        "/finance-health-check/chunk-CvFYpwU4.js",
+        "/finance-health-check/chunk-D6jl9EM4.js",
+        "/finance-health-check/chunk-DZC-RnnK.js",
+        "/finance-health-check/chunk-DjfLYikQ.js",
+        "/finance-health-check/chunk-DmnT0muZ.js",
+        "/finance-health-check/chunk-DtFn2WfP.js",
+        "/finance-health-check/chunk-KcIeHurH.js",
+        "/finance-health-check/chunk-RnbFmzSp.js",
+        "/finance-health-check/chunk-_rBx5Aja.js",
+        "/finance-health-check/chunk-jgQNgCgi.js",
+        "/finance-health-check/chunk-sJOh7pOn.js",
+        "/finance-health-check/favicon.ico",
+        "/finance-health-check/index.html",
+        "/finance-health-check/main-LC4P3VVC.js",
+        "/finance-health-check/manifest.webmanifest",
+        "/finance-health-check/styles-KEIHOCX5.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/finance-health-check/icons/icon-128x128.png",
+        "/finance-health-check/icons/icon-144x144.png",
+        "/finance-health-check/icons/icon-152x152.png",
+        "/finance-health-check/icons/icon-192x192.png",
+        "/finance-health-check/icons/icon-384x384.png",
+        "/finance-health-check/icons/icon-512x512.png",
+        "/finance-health-check/icons/icon-72x72.png",
+        "/finance-health-check/icons/icon-96x96.png",
+        "/finance-health-check/media/material-icons-latin-400-normal-LEZCGFVT.woff2",
+        "/finance-health-check/media/material-icons-latin-400-normal-OKHIZNFO.woff",
+        "/finance-health-check/media/roboto-latin-400-normal-54N5OGOO.woff",
+        "/finance-health-check/media/roboto-latin-400-normal-LOX3CHMS.woff2",
+        "/finance-health-check/media/roboto-latin-500-normal-D6YDQ3CR.woff2",
+        "/finance-health-check/media/roboto-latin-500-normal-RXEWG4GH.woff",
+        "/finance-health-check/media/roboto-latin-700-normal-MIORRAJE.woff",
+        "/finance-health-check/media/roboto-latin-700-normal-T27NHG46.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/finance-health-check/chunk-B7W6jEV5.js": "6a0f69fe87651f6c2c15c823610509e842cb6e91",
+    "/finance-health-check/chunk-BElFdW_K.js": "73e1355821f0b66057a40fd61aec1bd461540a93",
+    "/finance-health-check/chunk-BEuQRioc.js": "7f815d3fcc1aa7f073ba03bbf34c137bca5bf8c3",
+    "/finance-health-check/chunk-Bahj2KRN.js": "2380328d318ceca4d29a0bf2d2807e6eea45eff1",
+    "/finance-health-check/chunk-Bf69tG_C.js": "d02fd537e151179417cb1cca797fdef6f5c96419",
+    "/finance-health-check/chunk-BhHPqdIT.js": "47dea943b86ddb423302f685614f4e896c5ecb08",
+    "/finance-health-check/chunk-C2ag7lUe.js": "15497cd5a4278673b7dfba5ebfcb7db613068c5a",
+    "/finance-health-check/chunk-C5hQpH0g.js": "fcc574829d45303809252657905a14186e1a2707",
+    "/finance-health-check/chunk-CgEvyLfZ.js": "f11588a9e358a71e84c82f12d5997f959e26fadd",
+    "/finance-health-check/chunk-CvFYpwU4.js": "64af83b2a6a171d1a9be1d24949a966333d2345c",
+    "/finance-health-check/chunk-D6jl9EM4.js": "67754aa0c342f2384390a3ed24350867ae90eb40",
+    "/finance-health-check/chunk-DZC-RnnK.js": "6394fda2b6130755d9ba719bc17b2ae8d913ca01",
+    "/finance-health-check/chunk-DjfLYikQ.js": "4372d4d2962589dea8b420f56af47ce682426162",
+    "/finance-health-check/chunk-DmnT0muZ.js": "afed06586175db623758afdaec0332f391d1fe6d",
+    "/finance-health-check/chunk-DtFn2WfP.js": "19da93d2bf138ca38ee2b3b7872af7e8ea853de5",
+    "/finance-health-check/chunk-KcIeHurH.js": "f5508a75d8c121ba6e32924a552d70ed6944592d",
+    "/finance-health-check/chunk-RnbFmzSp.js": "bb55649436cc07af8df1d5c5432e0450119ca5f5",
+    "/finance-health-check/chunk-_rBx5Aja.js": "d84ded7bec877e8fab9ed0aa909ab4e1b8b54a8c",
+    "/finance-health-check/chunk-jgQNgCgi.js": "1a56065b0fce1cd5a03b975583af09c2976fc066",
+    "/finance-health-check/chunk-sJOh7pOn.js": "16e6611b091485707d2f1842430a80de60751759",
+    "/finance-health-check/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/finance-health-check/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/finance-health-check/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/finance-health-check/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/finance-health-check/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/finance-health-check/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/finance-health-check/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/finance-health-check/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/finance-health-check/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/finance-health-check/index.html": "9402717463bfc0a49b018105d7ee8c2a7921892b",
+    "/finance-health-check/main-LC4P3VVC.js": "f1c34d2ec5b2df22837058b198ff73e41ab508d8",
+    "/finance-health-check/manifest.webmanifest": "c2d8e2c53cbdeefc5feecd5234d10197a5acc93d",
+    "/finance-health-check/media/material-icons-latin-400-normal-LEZCGFVT.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
+    "/finance-health-check/media/material-icons-latin-400-normal-OKHIZNFO.woff": "a00c7900fc85bb011b36e4d70d7825127c02c63c",
+    "/finance-health-check/media/roboto-latin-400-normal-54N5OGOO.woff": "7336d425f90eb196514ca34bee46a23cf6a9a3cb",
+    "/finance-health-check/media/roboto-latin-400-normal-LOX3CHMS.woff2": "a0bec563643727d81bf21d0acec08227d9269da4",
+    "/finance-health-check/media/roboto-latin-500-normal-D6YDQ3CR.woff2": "88d702fdaae15f269299c04f979b674d18c6cf18",
+    "/finance-health-check/media/roboto-latin-500-normal-RXEWG4GH.woff": "fbe78169c696d0d47b9f03a38257d5700836104b",
+    "/finance-health-check/media/roboto-latin-700-normal-MIORRAJE.woff": "5aff04a6c4d666b45b199bb87f04b72321550bbb",
+    "/finance-health-check/media/roboto-latin-700-normal-T27NHG46.woff2": "0a5c6fbc071198f9f844e882523c9c2e695cbd2d",
+    "/finance-health-check/styles-KEIHOCX5.css": "53cb454c7de2c4fbe5edaf298cdc8a9a56bce93d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
