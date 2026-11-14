@@ -1,4 +1,4 @@
-import{t as n}from"./chunk-CgEvyLfZ.js";import"./chunk-_rBx5Aja.js";import{G as zo,P as Bo}from"./main-4SEDEIPE.js";import{t as A$1}from"./chunk-By0A3u-v.js";import{Kt as eT,Mn as oc,Mt as _i,Or as yv,a as BT,ir as te,mt as XC,rr as tT,ur as uf,vt as Xc,w as Ha}from"./chunk-BoBuONgJ.js";var p=`I'm going to upload my bank and card transaction exports, debt statements or
+import{t as n}from"./chunk-CgEvyLfZ.js";import"./chunk-_rBx5Aja.js";import{J as zo,L as Bo}from"./main-RDNB7GNQ.js";import{t as A$1}from"./chunk-By0A3u-v.js";import{Kt as eT,Mn as oc,Mt as _i,Or as yv,a as BT,ir as te,mt as XC,rr as tT,ur as uf,vt as Xc,w as Ha}from"./chunk-BoBuONgJ.js";var p=`I'm going to upload my bank and card transaction exports, debt statements or
 screenshots, pay stubs, and any loan pages. Convert everything into ONE CSV file
 with exactly this header:
 
