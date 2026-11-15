@@ -1,0 +1,1 @@
+import{l as Kn}from"./chunk-CeAhbriU.js";import{sr as sf}from"./chunk-DRXCYdeg.js";var i=class r{transform(e){return e==null?``:Kn(e)}static ɵfac=function(o){return new(o||r)};static ɵpipe=sf({name:`money`,type:r,pure:!0})};export{i as t};
