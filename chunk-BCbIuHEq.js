@@ -1,0 +1,1 @@
+import{c as Un}from"./chunk-x1SvCLhT.js";import{A as Gg}from"./chunk-CKrPsxX0.js";var i=class r{transform(e){return e==null?``:Un(e)}static ɵfac=function(o){return new(o||r)};static ɵpipe=Gg({name:`money`,type:r,pure:!0})};export{i as t};

@@ -1,0 +1,1 @@
+function s(o){let e=/* @__PURE__ */ new Map;for(let t of o){let n=e.get(t.name);(!n||t.date>=n.date)&&e.set(t.name,t)}return[...e.values()]}export{s as t};
