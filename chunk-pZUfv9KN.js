@@ -1,0 +1,1 @@
+import{Nt as Sm,Rn as dZ}from"./chunk-DQ8CPunn.js";var i=class r{transform(e){return e==null?``:dZ(e)}static ɵfac=function(o){return new(o||r)};static ɵpipe=Sm({name:`money`,type:r,pure:!0})};export{i as t};
