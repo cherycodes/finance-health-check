@@ -1,0 +1,1 @@
+import{r as u}from"./chunk-_rBx5Aja.js";function n(){let t=URL.createObjectURL(new Blob([u()],{type:`text/csv`})),e=document.createElement(`a`);e.href=t,e.download=`finance-template-v2.csv`,e.click(),setTimeout(()=>URL.revokeObjectURL(t),1e4)}export{n as t};
