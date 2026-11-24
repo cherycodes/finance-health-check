@@ -1,1 +1,0 @@
-import{l as Ds}from"./chunk-a1Bxv7Nb.js";import{kr as xl}from"./main-N5A4Y5F5.js";var i=class r{transform(e){return e==null?``:Ds(e)}static ɵfac=function(o){return new(o||r)};static ɵpipe=xl({name:`money`,type:r,pure:!0})};export{i as t};
