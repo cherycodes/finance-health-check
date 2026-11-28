@@ -1,0 +1,1 @@
+import{$ as gf,R as Vr}from"./chunk-DxzcC8Qp.js";import{kr as xl,vr as v}from"./main-4674AN4D.js";var o=class e{store=v(gf);transform(r){return Vr(r,this.store.names())}static ɵfac=function(p){return new(p||e)};static ɵpipe=xl({name:`lineName`,type:e,pure:!1})};export{o as t};
